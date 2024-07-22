@@ -1,9 +1,8 @@
 # Character-level-language-model-based-on-MLP
 
-Generated Samples:
+# Generated Samples:
 
 ```
-
 pooja
 laxmi shregar
 suman devi
@@ -34,5 +33,4 @@ shahna
 komal
 neha
 narender kumar
-
 ```
